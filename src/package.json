@@ -1,0 +1,30 @@
+{
+  "name": "budgetfirst",
+  "version": "1.0.0",
+  "description": "Open source personal budget application, because you need one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BudgetFirst/BudgetFirst.git"
+  },
+  "author": "Thomas Mühlgrabner",
+  "license": "SEE LICENSE IN ..\\LICENSE",
+  "bugs": {
+    "url": "https://github.com/BudgetFirst/BudgetFirst/issues"
+  },
+  "homepage": "https://github.com/BudgetFirst/BudgetFirst#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.2"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.12",
+    "systemjs": "0.19.24",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "zone.js": "0.6.6"
+  }
+}
